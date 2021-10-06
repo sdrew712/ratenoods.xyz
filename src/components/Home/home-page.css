@@ -1,0 +1,29 @@
+#header-img {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../images/noodleheader.jpg");
+
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#header-text {
+  font-family: Fredoka One;
+  color: var(--cream);
+  font-size: 2.5rem;
+  padding: 10rem 2.5rem 10rem 2.5rem;
+}
+
+@media (min-width: 614px) {
+  #header-img {
+    height: 100vh;
+    padding: 0 8rem 0 8rem;
+  }
+
+  #header-text {
+    font-size: 5rem;
+  }
+}
