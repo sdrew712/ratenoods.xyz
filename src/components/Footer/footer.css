@@ -1,0 +1,40 @@
+#footer {
+  background-color: var(--coral);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 2rem 2rem 2rem;
+}
+
+#linkedin-logo {
+  width: 5rem;
+  height: 1.25rem;
+  padding-right: 1rem;
+  filter: none;
+  border-radius: 0;
+}
+
+#github-logo {
+  width: 2rem;
+  height: 2rem;
+  filter: none;
+  border-radius: 0;
+}
+
+#icon-container {
+  display: flex;
+  align-items: center;
+}
+
+@media (min-width: 614px) {
+  #footer {
+    padding: 2rem 4rem 2rem 4rem;
+    font-size: 1.25rem;
+  }
+
+  #linkedin-logo {
+    width: 6rem;
+    height: 1.5rem;
+    padding-right: 3rem;
+  }
+}
