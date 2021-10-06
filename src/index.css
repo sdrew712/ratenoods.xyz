@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Fredoka+One&family=Lato&display=swap");
 
 html {
-  --dark-brown: #4d3e3e;
+  --brown: #4d3e3e;
   --coral: #ff926b;
   --cream: #fffaeb;
 }
@@ -12,4 +12,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
   font-family: "Lato", sans-serif;
   background-color: var(--cream);
+}
+
+a {
+  text-decoration: none;
+  color: var(--brown);
 }

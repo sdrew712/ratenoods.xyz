@@ -1,0 +1,43 @@
+.top-bar {
+  background-color: var(--coral);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1rem 1rem 1rem;
+}
+
+.top-bar-item {
+  display: inline;
+}
+
+#site-title {
+  font-size: 1.5rem;
+  color: var(--cream);
+  font-family: Fredoka One;
+}
+#site-title:hover {
+  color: var(--brown);
+}
+
+.nav-link {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.nav-link:hover {
+  color: var(--cream);
+}
+
+@media (min-width: 614px) {
+  .top-bar {
+    padding: 1rem 4rem 1rem 4rem;
+  }
+
+  #site-title {
+    font-size: 2.5rem;
+  }
+
+  .nav-link {
+    padding-left: 3rem;
+    font-size: 1.25rem;
+  }
+}
