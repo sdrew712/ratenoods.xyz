@@ -1,7 +1,7 @@
 import React from "react";
 
 const UpgradesPage = () => {
-  return <div>upgrades</div>;
+  return <>upgrades</>;
 };
 
 export default UpgradesPage;
