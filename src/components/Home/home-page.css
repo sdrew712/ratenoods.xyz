@@ -1,6 +1,6 @@
 #header-img {
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("../images/noodleheader.jpg");
+    url("./noodleheader.jpg");
 
   background-size: cover;
   background-position: center;
