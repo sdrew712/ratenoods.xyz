@@ -17,10 +17,40 @@
   padding: 10rem 2.5rem 10rem 2.5rem;
 }
 
+img {
+  width: 300px;
+}
+
+.review-card {
+  width: min-content;
+  border: 1px solid #b6b3b3;
+  margin: 15px;
+}
+
+#reviews-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 2rem;
+}
+
+.reviews-text-container {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.noodle-name {
+  color: var(--coral);
+}
+
 @media (min-width: 614px) {
   #header-img {
     height: 100vh;
     padding: 0 8rem 0 8rem;
+  }
+  .review-card {
+    margin: 30px;
   }
 
   #header-text {

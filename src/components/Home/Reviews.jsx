@@ -18,11 +18,11 @@ const Reviews = () => {
   return (
     <>
       <div>
-        <h2>Noodle Reviews</h2>
+        <h1 className="page-title">Noodle Reviews</h1>
         <hr />
       </div>
 
-      {reviews}
+      <div id="reviews-container">{reviews}</div>
     </>
   );
 };

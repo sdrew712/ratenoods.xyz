@@ -10,7 +10,7 @@ const HomePage = () => {
           Your one stop for everything instant noodles.
         </div>
       </div>
-      <div>
+      <div className="page-container">
         <Reviews />
       </div>
     </>
