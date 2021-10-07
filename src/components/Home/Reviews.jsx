@@ -15,7 +15,16 @@ const Reviews = () => {
     );
   });
 
-  return <div>{reviews}</div>;
+  return (
+    <>
+      <div>
+        <h2>Noodle Reviews</h2>
+        <hr />
+      </div>
+
+      {reviews}
+    </>
+  );
 };
 
 export default Reviews;
