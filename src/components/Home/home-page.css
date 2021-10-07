@@ -35,6 +35,10 @@ img {
   padding-top: 2rem;
 }
 
+.page-title-container {
+  padding: 4rem;
+}
+
 .reviews-text-container {
   padding-left: 1rem;
   padding-right: 1rem;

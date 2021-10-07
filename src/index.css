@@ -19,10 +19,6 @@ a {
   color: var(--brown);
 }
 
-.page-container {
-  padding: 4rem 2rem 4rem 2rem;
-}
-
 .page-title {
   font-size: 2rem;
   color: var(--coral);
@@ -31,10 +27,6 @@ a {
 }
 
 @media (min-width: 614px) {
-  .page-container {
-    padding: 4rem 4rem 4rem 4rem;
-  }
-
   .page-title {
     font-size: 2.5rem;
   }

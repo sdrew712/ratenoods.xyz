@@ -17,7 +17,7 @@ const Reviews = () => {
 
   return (
     <>
-      <div>
+      <div className="page-title-container">
         <h1 className="page-title">Noodle Reviews</h1>
         <hr />
       </div>
