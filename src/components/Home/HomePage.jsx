@@ -1,5 +1,6 @@
 import React from "react";
 import "./home-page.css";
+import Reviews from "./Reviews";
 
 const HomePage = () => {
   return (
@@ -8,6 +9,9 @@ const HomePage = () => {
         <div id="header-text">
           Your one stop for everything instant noodles.
         </div>
+      </div>
+      <div>
+        <Reviews />
       </div>
     </>
   );
