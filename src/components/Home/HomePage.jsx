@@ -6,7 +6,7 @@ const HomePage = () => {
   return (
     <>
       <div id="header-img">
-        <div id="header-text">
+        <div id="main-header">
           Your one stop for everything instant noodles.
         </div>
       </div>
