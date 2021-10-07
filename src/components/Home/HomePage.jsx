@@ -1,6 +1,7 @@
 import React from "react";
 import "./home-page.css";
-import Reviews from "./Reviews";
+import Cards from "../Cards/Cards";
+import ReviewsText from "./ReviewsText.json";
 
 const HomePage = () => {
   return (
@@ -11,7 +12,12 @@ const HomePage = () => {
         </div>
       </div>
 
-      <Reviews />
+      <div className="page-title-container">
+        <h1 className="page-title">Noodle Reviews</h1>
+        <hr />
+      </div>
+
+      <Cards cardData={ReviewsText} />
     </>
   );
 };

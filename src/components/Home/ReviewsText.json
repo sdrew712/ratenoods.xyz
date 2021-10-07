@@ -1,79 +1,79 @@
 [
   {
     "id": "0",
-    "noodleName": "Maruchan Chicken",
+    "name": "Maruchan Chicken",
     "rating": "Rating: 🍜🍜🍜",
     "bodyText": "This is a noodle that most Americans have tried. It’s always stocked somewhere in any grocery store...",
-    "noodleImg": "maruchan-chicken"
+    "image": "images/noodleImages/maruchan-chicken.jpg"
   },
   {
     "id": "1",
-    "noodleName": "Top Ramen Chicken",
+    "name": "Top Ramen Chicken",
     "rating": "Rating: 🍜🍜🍜",
     "bodyText": "Basically Maruchan Chicken, but with a slight difference in flavor...",
-    "noodleImg": "top-ramen-chicken"
+    "image": "images/noodleImages/top-ramen-chicken.jpg"
   },
   {
     "id": "2",
-    "noodleName": "Indomie Chicken Curry",
+    "name": "Indomie Chicken Curry",
     "rating": "Rating: 🍜🍜🍜🍜",
     "bodyText": "This noodle has a lot to offer in the way of spices and flavor...",
-    "noodleImg": "indomie-chicken-curry"
+    "image": "images/noodleImages/indomie-chicken-curry.jpg"
   },
   {
     "id": "3",
-    "noodleName": "Mama Chand Clear Soup",
+    "name": "Mama Chand Clear Soup",
     "rating": "Rating: 🍜🍜🍜🍜🍜",
     "bodyText": "It’s actually really spicy despite its unassuming look...",
-    "noodleImg": "mama-chand-clear"
+    "image": "images/noodleImages/mama-chand-clear.jpg"
   },
   {
     "id": "4",
-    "noodleName": "Myojo Beef Udon",
+    "name": "Myojo Beef Udon",
     "rating": "Rating: 🍜",
     "bodyText": "It’s good if you grew up eating Play-Doh...",
-    "noodleImg": "myojo-beef"
+    "image": "images/noodleImages/myojo-beef.jpg"
   },
   {
     "id": "5",
-    "noodleName": "Mama Pa-Lo Duck",
+    "name": "Mama Pa-Lo Duck",
     "rating": "Rating: 🍜🍜🍜🍜🍜",
     "bodyText": "This soup is one of my favorites by Mama...",
-    "noodleImg": "mama-duck"
+    "image": "images/noodleImages/mama-duck.jpg"
   },
   {
     "id": "6",
-    "noodleName": "Soo Beef with Seaweed",
+    "name": "Soo Beef with Seaweed",
     "rating": "Rating: 🍜🍜",
     "bodyText": "A little too much seaweed...",
-    "noodleImg": "soo-beef-seaweed"
+    "image": "images/noodleImages/soo-beef-seaweed.jpg"
   },
   {
     "id": "7",
-    "noodleName": "Mama Shrimp Creamy",
+    "name": "Mama Shrimp Creamy",
     "rating": "Rating: 🍜🍜",
     "bodyText": "One of the only Mama noodles I dislike due to its excessive shrimpiness...",
-    "noodleImg": "mama-shrimp-creamy"
+    "image": "images/noodleImages/mama-shrimp-creamy.jpg"
   },
   {
     "id": "8",
-    "noodleName": "Mama Rice Vermicelli",
+    "name": "Mama Rice Vermicelli",
     "rating": "Rating: 🍜🍜🍜🍜🍜",
     "bodyText": "A lot like the Mama Chand Clear Soup in terms of flavor and spice, but with new noodles...",
-    "noodleImg": "mama-vermicelli"
+    "image": "images/noodleImages/mama-vermicelli.jpg"
   },
   {
     "id": "9",
-    "noodleName": "Snapdragon Beef Pho",
+    "name": "Snapdragon Beef Pho",
     "rating": "Rating: 🍜🍜",
     "bodyText": "Would be good if it wasn't for the excessive ginger...",
-    "noodleImg": "snapdragon-beef"
+    "image": "images/noodleImages/snapdragon-beef.jpg"
   },
   {
     "id": "10",
-    "noodleName": "Vifon Chicken Pho",
+    "name": "Vifon Chicken Pho",
     "rating": "Rating: 🍜🍜🍜🍜🍜",
     "bodyText": "Great broth flavor. Tastes almost like it came out of a restaurant...",
-    "noodleImg": "vifon-pho"
+    "image": "images/noodleImages/vifon-pho.jpg"
   }
 ]

@@ -1,26 +1,26 @@
 [
   {
     "id": "0",
-    "upgradeName": "Eggs",
+    "name": "Eggs",
     "bodyText": "Add a little more protein to your meal for cheap. You can just drop an egg in once the noodles are soft to poach it, fry one and place it on top, or mix it in.",
-    "upgradeImg": "eggs.png"
+    "image": "images/upgradeImages/eggs.png"
   },
   {
     "id": "1",
-    "upgradeName": "Bok choy",
+    "name": "Bok choy",
     "bodyText": "A fancy veggie option that makes your noodles feel like they’re straight out of a restaurant. I’d recommend cooking it separate in a pan with soy sauce + sauces of your choice and adding it on top at the end.",
-    "upgradeImg": "bok-choy.png"
+    "image": "images/upgradeImages/bok-choy.png"
   },
   {
     "id": "2",
-    "upgradeName": "Enoki mushrooms",
+    "name": "Enoki mushrooms",
     "bodyText": "These aren’t your typical mushroom. Instead of having a mushy feel, they are very bouncy and springy— almost rubbery but very easy to chew.",
-    "upgradeImg": "enoki.png"
+    "image": "images/upgradeImages/enoki.png"
   },
   {
     "id": "3",
-    "upgradeName": "Green onions",
+    "name": "Green onions",
     "bodyText": "These are perfect for adding extra flavor to your meal. Cut them up and add them on top once your food is done.",
-    "upgradeImg": "green-onions.png"
+    "image": "images/upgradeImages/green-onions.png"
   }
 ]
