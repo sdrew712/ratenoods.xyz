@@ -1,0 +1,16 @@
+.header-text {
+  font-family: Fredoka One;
+  font-size: 2.5rem;
+  padding: 10rem 0 10rem 0;
+  color: var(--brown);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (min-width: 614px) {
+  .header-text {
+    font-size: 5rem;
+    display: block;
+  }
+}
