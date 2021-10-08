@@ -1,0 +1,17 @@
+#about-text-container {
+  padding-bottom: 6rem;
+}
+
+.about-text {
+  font-size: 1.25rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+@media (min-width: 614px) {
+  .about-text {
+    font-size: 1.25rem;
+    padding-left: 6rem;
+    padding-right: 6rem;
+  }
+}
