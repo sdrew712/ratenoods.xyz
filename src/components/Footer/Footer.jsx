@@ -8,8 +8,12 @@ const Footer = () => {
     <div id="footer">
       <div>Made with ♥ by Sarah Drew</div>
       <div id="icon-container">
-        <img src={linkedInLogo} alt="linkedin logo" id="linkedin-logo" />
-        <img src={gitHubLogo} alt="github logo" id="github-logo" />
+        <a href="https://www.linkedin.com/in/sarah-drew-dev/">
+          <img src={linkedInLogo} alt="linkedin logo" id="linkedin-logo" />
+        </a>
+        <a href="https://github.com/sdrew712/">
+          <img src={gitHubLogo} alt="github logo" id="github-logo" />
+        </a>
       </div>
     </div>
   );
