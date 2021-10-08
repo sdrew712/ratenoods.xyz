@@ -36,7 +36,7 @@
 
 @media (min-width: 614px) {
   .cards-container {
-    padding: 0rem 10.5rem 4rem 10.5rem;
+    padding-bottom: 4rem;
   }
 
   .card {
