@@ -17,7 +17,7 @@ const Cards = ({ cardData }) => {
 
   return (
     <>
-      <div id="reviews-container">{cards}</div>
+      <div className="cards-container">{cards}</div>
     </>
   );
 };
