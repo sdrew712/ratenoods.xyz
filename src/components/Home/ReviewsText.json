@@ -3,77 +3,77 @@
     "id": "0",
     "name": "Maruchan Chicken",
     "rating": "Rating: 🍜🍜🍜",
-    "bodyText": "This is a noodle that most Americans have tried. It’s always stocked somewhere in any grocery store...",
+    "bodyText": "This is a noodle that most Americans have tried, as it’s always stocked somewhere in any grocery store. It has a very basic chicken flavor and is nice on the wallet!",
     "image": "images/noodleImages/maruchan-chicken.jpg"
   },
   {
     "id": "1",
     "name": "Top Ramen Chicken",
     "rating": "Rating: 🍜🍜🍜",
-    "bodyText": "Basically Maruchan Chicken, but with a slight difference in flavor...",
+    "bodyText": "This noodle is much like Maruchan Chicken in terms of flavor. The noodles are slightly diffferent, but both of these noodles are very interchangeable.",
     "image": "images/noodleImages/top-ramen-chicken.jpg"
   },
   {
     "id": "2",
     "name": "Indomie Chicken Curry",
     "rating": "Rating: 🍜🍜🍜🍜",
-    "bodyText": "This noodle has a lot to offer in the way of spices and flavor...",
+    "bodyText": "This noodle has a lot to offer in spices and flavor. It's an Indonesian brand, so you get a much different and delicious experience compared to Japanese brands.",
     "image": "images/noodleImages/indomie-chicken-curry.jpg"
   },
   {
     "id": "3",
     "name": "Mama Chand Clear Soup",
     "rating": "Rating: 🍜🍜🍜🍜🍜",
-    "bodyText": "It’s actually really spicy despite its unassuming look...",
+    "bodyText": "It’s actually really spicy despite its unassuming look, as it comes with a chili powder packet. The noodles are smooth, unlike the typical curly instant ramen. Oh, and it's delicious.",
     "image": "images/noodleImages/mama-chand-clear.jpg"
   },
   {
     "id": "4",
     "name": "Myojo Beef Udon",
     "rating": "Rating: 🍜",
-    "bodyText": "It’s good if you grew up eating Play-Doh...",
+    "bodyText": "It’s good if you grew up eating Play-Doh. I'm not sure why, but this noodle smelled and tasted just like it. I don't plan to ever eat this again.",
     "image": "images/noodleImages/myojo-beef.jpg"
   },
   {
     "id": "5",
     "name": "Mama Pa-Lo Duck",
     "rating": "Rating: 🍜🍜🍜🍜🍜",
-    "bodyText": "This soup is one of my favorites by Mama...",
+    "bodyText": "This soup is one of my favorites by Mama. The noodles are the usual ramen shape and the flavor of the broth is amazing.",
     "image": "images/noodleImages/mama-duck.jpg"
   },
   {
     "id": "6",
     "name": "Soo Beef with Seaweed",
     "rating": "Rating: 🍜🍜",
-    "bodyText": "A little too much seaweed...",
+    "bodyText": "A little too much seaweed in my opinion. I think it would have been pretty good without it overpowering everything.",
     "image": "images/noodleImages/soo-beef-seaweed.jpg"
   },
   {
     "id": "7",
     "name": "Mama Shrimp Creamy",
     "rating": "Rating: 🍜🍜",
-    "bodyText": "One of the only Mama noodles I dislike due to its excessive shrimpiness...",
+    "bodyText": "This is the only Mama noodle that I dislike due to its excessive shrimpiness.",
     "image": "images/noodleImages/mama-shrimp-creamy.jpg"
   },
   {
     "id": "8",
     "name": "Mama Rice Vermicelli",
     "rating": "Rating: 🍜🍜🍜🍜🍜",
-    "bodyText": "A lot like the Mama Chand Clear Soup in terms of flavor and spice, but with new noodles...",
+    "bodyText": "The broth is a lot like the Mama Chand Clear Soup in terms of flavor and spice, but the noodles are vermicelli! This is my favorite Mama brand noodle. Definitely pick it up if you see it!",
     "image": "images/noodleImages/mama-vermicelli.jpg"
   },
   {
     "id": "9",
     "name": "Snapdragon Beef Pho",
     "rating": "Rating: 🍜🍜",
-    "bodyText": "Would be good if it wasn't for the excessive ginger...",
+    "bodyText": "This noodleould be good if it wasn't for the excessive ginger. It had a good broth otherwise.",
     "image": "images/noodleImages/snapdragon-beef.jpg"
   },
   {
     "id": "10",
     "name": "Vifon Chicken Pho",
     "rating": "Rating: 🍜🍜🍜🍜🍜",
-    "bodyText": "Great broth flavor. Tastes almost like it came out of a restaurant...",
+    "bodyText": "This has a great broth flavor! Tastes almost like it came out of a restaurant. It's simple but extremely delicious.",
     "image": "images/noodleImages/vifon-pho.jpg"
   }
 ]
