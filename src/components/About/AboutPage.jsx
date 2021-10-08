@@ -18,8 +18,14 @@ const AboutPage = () => {
         <br />
         <PageTitle titleText="Get in touch" />
         <p className="about-text">
-          You can check out my source code here and connect with me on LinkedIn
-          here.
+          Check out my
+          <a href="https://github.com/sdrew712/ratenoods.xyz">
+            <b> source code </b>
+          </a>
+          and connect with me on
+          <a href="https://www.linkedin.com/in/sarah-drew-dev/">
+            <b> LinkedIn!</b>
+          </a>
         </p>
       </div>
     </>
