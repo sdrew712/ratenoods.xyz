@@ -2,6 +2,7 @@ import React from "react";
 import "./home-page.css";
 import Cards from "../Cards/Cards";
 import ReviewsText from "./ReviewsText.json";
+import PageTitle from "../PageTitle/PageTitle";
 
 const HomePage = () => {
   return (
@@ -12,10 +13,7 @@ const HomePage = () => {
         </div>
       </div>
 
-      <div className="page-title-container">
-        <h1 className="page-title">Noodle Reviews</h1>
-        <hr />
-      </div>
+      <PageTitle titleText="Noodle Reviews" />
 
       <Cards cardData={ReviewsText} />
     </>
