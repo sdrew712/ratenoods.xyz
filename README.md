@@ -1,1 +1,8 @@
-# Welcome to RateNoods, my personal instant noodle rating site
+# Rate Noods- An instant noodle rating site
+
+Made with React!
+
+## Features:
+
+- Instant noodle ratings
+- Tips on how to upgrade instant noodles
