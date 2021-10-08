@@ -9,7 +9,7 @@
   padding-bottom: 1rem;
 }
 
-@media (min-width: 614px) {
+@media (min-width: 768px) {
   .page-title-container {
     padding: 4rem 10rem 4rem 10rem;
   }

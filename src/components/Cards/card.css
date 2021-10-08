@@ -34,9 +34,9 @@
   font-size: 18px;
 }
 
-@media (min-width: 614px) {
+@media (min-width: 768px) {
   .cards-container {
-    padding-bottom: 4rem;
+    padding: 0 4rem 4rem 4rem;
   }
 
   .card {

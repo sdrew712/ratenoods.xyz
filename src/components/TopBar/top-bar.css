@@ -27,7 +27,7 @@
   color: var(--cream);
 }
 
-@media (min-width: 614px) {
+@media (min-width: 768px) {
   .top-bar {
     padding: 1rem 4rem 1rem 4rem;
   }

@@ -27,7 +27,7 @@
   align-items: center;
 }
 
-@media (min-width: 614px) {
+@media (min-width: 768px) {
   #footer {
     padding: 2rem 4rem 2rem 4rem;
     font-size: 1.25rem;
