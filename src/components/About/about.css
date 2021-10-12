@@ -1,3 +1,13 @@
+.about-header {
+  font-family: Fredoka One;
+  font-size: 2.5rem;
+  padding: 10rem 4rem 10rem 4rem;
+  color: var(--brown);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 #about-text-container {
   padding-bottom: 8rem;
 }
@@ -9,6 +19,12 @@
 }
 
 @media (min-width: 768px) {
+  .about-header {
+    font-size: 5rem;
+    display: block;
+    padding: 12rem 10.5rem 8rem 10.5rem;
+  }
+
   .about-text {
     font-size: 1.25rem;
     padding-left: 10rem;

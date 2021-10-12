@@ -1,12 +1,11 @@
 import React from "react";
-import PageHeader from "../PageHeader/PageHeader";
 import PageTitle from "../PageTitle/PageTitle";
 import "./about.css";
 
 const AboutPage = () => {
   return (
     <>
-      <PageHeader headerText="About me!" />
+      <div className="about-header">About me!</div>
 
       <div id="about-text-container">
         <PageTitle titleText="Who am I?" />
