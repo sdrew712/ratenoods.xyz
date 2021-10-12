@@ -2,7 +2,6 @@ import React from "react";
 import "./card.css";
 
 const Card = ({ name, rating, bodyText, image }) => {
-  console.log(image);
   return (
     <div className="card">
       <img src={image} alt="noodle_img" className="card-img" />

@@ -3,7 +3,6 @@ import Card from "./Card";
 
 const Cards = ({ cardData }) => {
   const cards = cardData.map((data) => {
-    console.log(data);
     return (
       <Card
         key={data.id}
