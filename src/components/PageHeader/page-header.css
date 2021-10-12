@@ -1,17 +1,31 @@
-.header-text {
-  font-family: Fredoka One;
-  font-size: 2.5rem;
-  padding: 10rem 4rem 10rem 4rem;
-  color: var(--brown);
+.header-img {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
+.header-img > div {
+  color: var(--cream);
+}
+
+.header-text {
+  font-family: Fredoka One;
+  font-size: 2.5rem;
+  padding: 10rem 2.5rem 10rem 2.5rem;
+}
+
 @media (min-width: 768px) {
+  .header-img {
+    height: 100vh;
+    padding: 0 8rem 0 8rem;
+  }
+
   .header-text {
     font-size: 5rem;
-    display: block;
-    padding: 12rem 10.5rem 8rem 10.5rem;
   }
 }
