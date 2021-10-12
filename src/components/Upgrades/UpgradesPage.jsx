@@ -7,7 +7,10 @@ import PageTitle from "../PageTitle/PageTitle";
 const UpgradesPage = () => {
   return (
     <>
-      <PageHeader headerText="Make your noodles more of a meal." />
+      <PageHeader
+        headerText="Make your noodles more of a meal."
+        backgroundImage={`url("/images/backgrounds/upgraded-bowl.jpg")`}
+      />
 
       <PageTitle titleText="Noodle Upgrades" />
 
