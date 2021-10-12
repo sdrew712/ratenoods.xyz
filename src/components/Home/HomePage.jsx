@@ -9,7 +9,7 @@ const HomePage = () => {
     <>
       <PageHeader
         headerText="Your one stop for everything instant noodles."
-        backgroundImage={`url("/images/backgrounds/noodleheader.jpg")`}
+        backgroundImage="noodleheader.jpg"
       />
 
       <PageTitle titleText="Noodle Reviews" />

@@ -9,7 +9,7 @@ const UpgradesPage = () => {
     <>
       <PageHeader
         headerText="Make your noodles more of a meal."
-        backgroundImage={`url("/images/backgrounds/upgraded-bowl.jpg")`}
+        backgroundImage="upgraded-bowl.jpg"
       />
 
       <PageTitle titleText="Noodle Upgrades" />
