@@ -12,9 +12,9 @@ export default function Router() {
       <TopBar />
 
       <Switch>
+        <Route exact path="/" component={HomePage} />
         <Route path="/upgrades" component={UpgradesPage} />
         <Route path="/about" component={AboutPage} />
-        <Route path="/" component={HomePage} />
         <Route path="/*">
           <Redirect to="/" />
         </Route>

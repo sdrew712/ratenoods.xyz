@@ -1,6 +1,6 @@
 import React from "react";
 import Headroom from "react-headroom";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import "./top-bar.css";
 
 const TopBar = () => {
@@ -8,18 +8,18 @@ const TopBar = () => {
     <Headroom>
       <div className="top-bar">
         <div>
-          <Link to="/" id="site-title">
+          <NavLink to="/" id="site-title" exact activeClassName="active">
             Rate Noods
-          </Link>
+          </NavLink>
         </div>
 
         <div>
-          <Link to="/upgrades" className="nav-link">
+          <NavLink to="/upgrades" className="nav-link" activeClassName="active">
             Upgrades
-          </Link>
-          <Link to="/about" className="nav-link">
+          </NavLink>
+          <NavLink to="/about" className="nav-link" activeClassName="active">
             About
-          </Link>
+          </NavLink>
         </div>
       </div>
     </Headroom>

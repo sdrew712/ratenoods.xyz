@@ -12,11 +12,10 @@
 
 #site-title {
   font-size: 1.5rem;
-  color: var(--cream);
   font-family: Fredoka One;
 }
 #site-title:hover {
-  color: var(--brown);
+  color: var(--cream);
 }
 
 .nav-link {
@@ -27,7 +26,11 @@
   color: var(--cream);
 }
 
-@media (min-width: 768px) {
+.active {
+  color: var(--cream);
+}
+
+@media (min-width: 614px) {
   .top-bar {
     padding: 1rem 4rem 1rem 4rem;
   }
