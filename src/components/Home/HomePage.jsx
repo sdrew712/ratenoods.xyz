@@ -12,7 +12,10 @@ const HomePage = () => {
         backgroundImage="noodleheader.jpg"
       />
 
-      <PageTitle titleText="Noodle Reviews" />
+      <PageTitle
+        titleText="Noodle Reviews"
+        pageDescription="Here are all of my instant noodle reviews, complete with an overall rating for each!"
+      />
 
       <Cards cardData={ReviewsText} />
     </>

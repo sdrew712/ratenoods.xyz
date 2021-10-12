@@ -12,7 +12,10 @@ const UpgradesPage = () => {
         backgroundImage="upgraded-bowl.jpg"
       />
 
-      <PageTitle titleText="Noodle Upgrades" />
+      <PageTitle
+        titleText="Noodle Upgrades"
+        pageDescription="Want to learn what ingredients to add to upgrade your ramen? Check out my suggestions."
+      />
 
       <Cards cardData={UpgradesText} />
     </>

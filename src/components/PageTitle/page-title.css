@@ -8,6 +8,10 @@
   font-family: Fredoka One;
   padding-bottom: 1rem;
 }
+.page-description {
+  padding-bottom: 2rem;
+  font-size: 1.25rem;
+}
 
 @media (min-width: 768px) {
   .page-title-container {
