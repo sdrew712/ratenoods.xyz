@@ -1,7 +1,9 @@
 .header-img {
+  background: no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
   display: flex;
   justify-content: center;
   align-items: center;
